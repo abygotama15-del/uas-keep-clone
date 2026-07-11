@@ -16,7 +16,7 @@ Pengujian dilakukan pada class `NoteDAO` menggunakan metode **Mocking**. Koneksi
 ## 3. Hasil Pengujian
 Aplikasi berhasil melewati seluruh tahapan kompilasi dan pengujian dengan status:
 - **Total Tests Run:** 2
-- **Failures:** 0
+- **Failures:** 0 
 - **Errors:** 0
 - **Skipped:** 0
 - **Build Status:** SUCCESS

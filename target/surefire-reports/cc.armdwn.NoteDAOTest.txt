@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cc.armdwn.NoteDAOTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.393 s -- in cc.armdwn.NoteDAOTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.749 s -- in cc.armdwn.NoteDAOTest
