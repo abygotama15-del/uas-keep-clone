@@ -1,7 +1,7 @@
 # Dokumentasi Testing - UAS Google Keep Clone (CLI)
 
 ## 1. Lingkungan Pengujian
-- **Bahasa Pemrograman:** Java 24
+- **Bahasa Pemrograman:** Java 21
 - **Framework Testing:** JUnit Jupiter (JUnit 5)
 - **Framework Mocking:** Mockito 5
 - **Tool Coverage:** JaCoCo 0.8.12
